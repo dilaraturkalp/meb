@@ -15,4 +15,5 @@ __pycache__/
 
 # Virtual environment
 venv/
-env/ 
+env/ model_and_tokenizer.zip
+path-to-save/
