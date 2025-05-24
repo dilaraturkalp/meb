@@ -1,0 +1,18 @@
+# MacOS dosyaları
+.DS_Store
+
+# Büyük model dosyaları
+*.zip
+model_and_tokenizer.zip
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache dosyaları
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/ 
